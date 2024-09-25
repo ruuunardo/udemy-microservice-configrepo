@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs - BUS TEST"
+  message: "Welcome to EazyBank accounts related production APIs - WEBHOOK TEST"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
