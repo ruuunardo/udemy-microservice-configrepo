@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to EazyBank cards related local APIs "
+  message: "Welcome to EazyBank cards related local APIs -TEST "
   contactDetails:
     name: "Ru Nards - Developer"
     email: "john@eazybank.com"
